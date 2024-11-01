@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Labrador Retriever",
+    "origin": "Canada",
+    "description": "Friendly, outgoing, and high-spirited companions."
+  },
+  {
+    "name": "German Shepherd",
+    "origin": "Germany",
+    "description": "Courageous, confident, and smart working dogs."
+  },
+  {
+    "name": "Golden Retriever",
+    "origin": "Scotland",
+    "description": "Intelligent, friendly, and devoted family pets."
+  },
+  {
+    "name": "Bulldog",
+    "origin": "England",
+    "description": "Sturdy, muscular, and determined."
+  },
+  {
+    "name": "Beagle",
+    "origin": "England",
+    "description": "Friendly, curious, and merry hunting dogs."
+  },
+  {
+    "name": "Poodle",
+    "origin": "Germany",
+    "description": "Smart, active, and highly trainable."
+  },
+  {
+    "name": "Rottweiler",
+    "origin": "Germany",
+    "description": "Confident, fearless, and loyal working dogs."
+  },
+  {
+    "name": "Siberian Husky",
+    "origin": "Siberia (Russia)",
+    "description": "Friendly, energetic, and resilient sled dogs."
+  },
+  {
+    "name": "Dachshund",
+    "origin": "Germany",
+    "description": "Lively, clever, and courageous with a unique body."
+  },
+  {
+    "name": "Boxer",
+    "origin": "Germany",
+    "description": "Fun-loving, bright, and active."
+  },
+  {
+    "name": "Yorkshire Terrier",
+    "origin": "England",
+    "description": "Sprightly, tomboyish, and affectionate toy breed."
+  },
+  {
+    "name": "Shih Tzu",
+    "origin": "China",
+    "description": "Outgoing, affectionate, and charming lap dogs."
+  },
+  {
+    "name": "Doberman Pinscher",
+    "origin": "Germany",
+    "description": "Alert, fearless, and loyal guardians."
+  },
+  {
+    "name": "Great Dane",
+    "origin": "Germany",
+    "description": "Friendly, patient, and dependable gentle giants."
+  },
+  {
+    "name": "Chihuahua",
+    "origin": "Mexico",
+    "description": "Graceful, charming, and sassy tiny dogs."
+  },
+  {
+    "name": "Cavalier King Charles Spaniel",
+    "origin": "England",
+    "description": "Affectionate, gentle, and graceful toy spaniels."
+  },
+  {
+    "name": "Pomeranian",
+    "origin": "Germany/Poland",
+    "description": "Lively, bold, and inquisitive toy breed."
+  },
+  {
+    "name": "Shetland Sheepdog",
+    "origin": "Scotland",
+    "description": "Playful, energetic, and intelligent herding dogs."
+  },
+  {
+    "name": "Basset Hound",
+    "origin": "France",
+    "description": "Low-slung, easy-going, and tenacious scent hounds."
+  },
+  {
+    "name": "Australian Shepherd",
+    "origin": "USA",
+    "description": "Intelligent, hardworking, and energetic herders."
+  },
+  {
+    "name": "Mastiff",
+    "origin": "England",
+    "description": "Dignified, courageous, and protective."
+  },
+  {
+    "name": "Pug",
+    "origin": "China",
+    "description": "Charming, mischievous, and loving companions."
+  },
+  {
+    "name": "Border Collie",
+    "origin": "Scotland/England",
+    "description": "Intelligent, energetic, and highly trainable herders."
+  },
+  {
+    "name": "Cocker Spaniel",
+    "origin": "England",
+    "description": "Gentle, smart, and happy sporting dogs."
+  },
+  {
+    "name": "Bernese Mountain Dog",
+    "origin": "Switzerland",
+    "description": "Good-natured, strong, and calm working dogs."
+  },
+  {
+    "name": "Akita",
+    "origin": "Japan",
+    "description": "Loyal, courageous, and dignified guardians."
+  },
+  {
+    "name": "Saint Bernard",
+    "origin": "Switzerland/Italy",
+    "description": "Gentle, patient, and friendly mountain dogs."
+  },
+  {
+    "name": "Irish Setter",
+    "origin": "Ireland",
+    "description": "Outgoing, sweet-natured, and high-energy gundogs."
+  },
+  {
+    "name": "Newfoundland",
+    "origin": "Canada",
+    "description": "Sweet, patient, and devoted gentle giants."
+  },
+  {
+    "name": "English Springer Spaniel",
+    "origin": "England",
+    "description": "Friendly, playful, and obedient sporting dogs."
+  },
+  {
+    "name": "Miniature Schnauzer",
+    "origin": "Germany",
+    "description": "Friendly, smart, and obedient."
+  },
+  {
+    "name": "Alaskan Malamute",
+    "origin": "Alaska (USA)",
+    "description": "Affectionate, loyal, and hardworking sled dogs."
+  },
+  {
+    "name": "Bichon Frise",
+    "origin": "France/Belgium",
+    "description": "Playful, curious, and peppy small dogs."
+  },
+  {
+    "name": "Weimaraner",
+    "origin": "Germany",
+    "description": "Friendly, fearless, and obedient hunting dogs."
+  },
+  {
+    "name": "Whippet",
+    "origin": "England",
+    "description": "Fast, quiet, and affectionate sighthounds."
+  },
+  {
+    "name": "Vizsla",
+    "origin": "Hungary",
+    "description": "Gentle, energetic, and eager-to-please sporting dogs."
+  },
+  {
+    "name": "Havanese",
+    "origin": "Cuba",
+    "description": "Outgoing, funny, and smart companion dogs."
+  },
+  {
+    "name": "Samoyed",
+    "origin": "Russia (Siberia)",
+    "description": "Gentle, friendly, and adaptable working dogs."
+  },
+  {
+    "name": "Scottish Terrier",
+    "origin": "Scotland",
+    "description": "Independent, confident, and alert little dogs."
+  },
+  {
+    "name": "Belgian Malinois",
+    "origin": "Belgium",
+    "description": "Smart, confident, and hardworking herding dogs."
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "name": "express-graphql-dog-breeds",
+  "version": "1.0.0",
+  "description": " A basic graphql + express.js with Typescript",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "dev": "nodemon src/index.ts",
+    "build": "tsc",
+    "start:dist": "node dist/src/index.js",
+    "lint": "eslint --fix",
+    "test": "NODE_ENV=test jest",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.7.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/graphql": "^14.5.0",
+    "@types/jest": "^29.5.13",
+    "@types/mongoose": "^5.11.97",
+    "@types/morgan": "^1.9.9",
+    "@types/node": "^22.7.5",
+    "@types/supertest": "^6.0.2",
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^9.1.0",
+    "@typescript-eslint/eslint-plugin": "^7.12.0",
+    "@typescript-eslint/parser": "^7.12.0",
+    "express": "^4.21.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.9.0",
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.7",
+    "prettier": "^3.3.3",
+    "supertest": "^7.0.0",
+    "ts-jest": "^29.2.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5"
+  }
+}
